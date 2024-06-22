@@ -1,0 +1,116 @@
+  .container{
+    height: auto;
+    width: 300px;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #141414;
+    color: white;
+  }
+  
+  #register{
+    color: #1ce683;
+  }
+  
+  #info1{
+    font-size: 0.8rem;
+    color: #b3b3b3;
+  }
+  
+  #email-btn{
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #1ce683;
+    color: black;
+    padding: 5px;
+    margin: 5px 10px 0px 0px;
+  }
+  
+  #phone-number-btn{
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #282627;
+    color: #b3b3b3;
+    padding: 5px;
+    margin: 5px 10px 0px 0px;
+  }
+  
+  label{
+    font-size: 0.9rem;
+    color: #b3b3b3;
+  }
+  
+  input{
+    border-radius: 4px;
+    height: 25px;
+    max-width: 100%;
+    border: none;
+    outline: none;
+    background-color: #282627;
+    color: #b3b3b3;
+    margin: 3px;
+  }
+  
+  #info2{
+    font-size: 0.7rem;
+    letter-spacing: 0.3px;
+    line-height: 1;
+    color: #b3b3b3;
+  }
+  
+  #create-account-btn{
+    text-align: center;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    height: 30px;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: #1ce683;
+    color: black;
+    font-weight: 900;
+    margin: 5px 0px;
+  }
+  
+  #or{
+    text-align: center;
+    font-size: 0.7rem;
+  }
+  
+  #google-btn, #telegram-btn{
+    text-align: center;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    height: 30px;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: #282627;
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  #google-img{
+    width: 15px;
+  }
+  
+  #telegram-img{
+    width: 15px;
+  }
+  
+  #info3{
+    font-size: 0.7rem;
+    line-height: 1;
+    color: #b3b3b3;
+  }
+  
+  #login{
+    font-size: 0.9rem;
+    text-align: center;
+    color: #b3b3b3;
+  }
+  
+  #login-text, #terms-of-service-text, #privacy-policy-text{
+    color: #1ce683;
+  }

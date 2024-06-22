@@ -1,0 +1,69 @@
+.created-done-page{
+    height: auto;
+    width: 300px;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #141414;
+    color: white;
+  }
+  
+  #created-done{
+    color: #1ce683;
+  }
+  
+  .info5{
+    font-size: 0.8rem;
+    color: #b3b3b3;
+    float: left;
+  }
+  
+  #get-started-btn{
+    text-align: center;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    height: 30px;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: #1ce683;
+    color: black;
+    font-weight: 900;
+    margin: 5px 0px;
+  }
+  
+  .icon{
+    font-size: 1.5rem;
+  }
+  
+  .right-div{
+    float: right;
+  }
+  
+  #circle{
+    color: #1ce683;
+    font-size: 2.5rem;
+    float: left;
+  }
+  
+  #fund{
+    color: orange;
+    font-size: 1.5rem;
+  }
+  
+  #secure{
+    color: darkorchid;
+    font-size: 1.5rem;
+  }
+  
+  #skip-btn{
+    text-align: center;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    height: 30px;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: #282627;
+    color: white;
+    margin: 5px 0px;
+  }
