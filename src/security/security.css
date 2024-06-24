@@ -1,63 +1,60 @@
-.security-page{  
-    height: auto;
-    width: 300px;
-    border-radius: 15px;
-    padding: 20px;
-    background-color: #141414;
-    color: white;
-  }
-  
-  #security{
-    color: #1ce683;
-  }
-  
-  #info4 {
-    font-size: 0.8rem;
-    color: #b3b3b3;
-  }
-  
-  #code{
-    margin-right: 0px;
-    border-radius: 4px 0px 0px 4px;
-    background-color: #282627;
-    color: #b3b3b3;
-    border: none;
-    outline: none;
-    height: 25px;
-  }
-  
-  #resend-code-btn{
-    padding: 6px;
-    border-radius: 0px 4px 4px 0px;
-    color: #1ce683;
-    background-color: #282627;
-    border-top: #b3b3b3;
-    outline: none;
-  }
-  
-  #submit{
-    text-align: center;
-    border-radius: 4px;
-    font-size: 0.75rem;
-    height: 30px;
-    width: 100%;
-    border: none;
-    outline: none;
-    background-color: #1ce683;
-    color: black;
-    font-weight: 900;
-    margin: 25px 0px 5px;
-  }
-  
-  #verification-text{
-    text-align: center;
-    border-radius: 4px;
-    font-size: 0.75rem;
-    height: 30px;
-    width: 100%;
-    border: none;
-    outline: none;
-    background-color: #282627;
-    color: #1ce683;
-    margin: 5px 0px;
-  }
+.security-page {
+  height: auto;
+  width: 300px;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: #141414;
+  color: white;
+}
+
+#security {
+  color: #1ce683;
+}
+
+#text1 {
+  font-size: 0.8rem;
+  color: #b3b3b3;
+}
+
+#code {
+  margin-right: 0px;
+  border-radius: 4px 0px 0px 4px;
+  background-color: #282627;
+  color: #b3b3b3;
+  border: none;
+  outline: none;
+  height: 25px;
+}
+
+#resend-code-btn {
+  padding: 6px;
+  border-radius: 0px 4px 4px 0px;
+  color: #1ce683;
+  background-color: #282627;
+  border-top: #b3b3b3;
+  outline: none;
+}
+
+#submit,
+#verification-text {
+  text-align: center;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  height: 30px;
+  width: 100%;
+  border: none;
+  outline: none;
+}
+
+#submit {
+  background-color: #1ce683;
+  color: black;
+  font-weight: 900;
+  margin: 25px 0px 5px;
+}
+
+#verification-text {
+  background-color: #282627;
+  color: #1ce683;
+  margin: 5px 0px;
+}

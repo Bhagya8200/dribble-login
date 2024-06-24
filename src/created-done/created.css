@@ -1,69 +1,65 @@
-.created-done-page{
-    height: auto;
-    width: 300px;
-    border-radius: 15px;
-    padding: 20px;
-    background-color: #141414;
-    color: white;
-  }
-  
-  #created-done{
-    color: #1ce683;
-  }
-  
-  .info5{
-    font-size: 0.8rem;
-    color: #b3b3b3;
-    float: left;
-  }
-  
-  #get-started-btn{
-    text-align: center;
-    border-radius: 4px;
-    font-size: 0.75rem;
-    height: 30px;
-    width: 100%;
-    border: none;
-    outline: none;
-    background-color: #1ce683;
-    color: black;
-    font-weight: 900;
-    margin: 5px 0px;
-  }
-  
-  .icon{
-    font-size: 1.5rem;
-  }
-  
-  .right-div{
-    float: right;
-  }
-  
-  #circle{
-    color: #1ce683;
-    font-size: 2.5rem;
-    float: left;
-  }
-  
-  #fund{
-    color: orange;
-    font-size: 1.5rem;
-  }
-  
-  #secure{
-    color: darkorchid;
-    font-size: 1.5rem;
-  }
-  
-  #skip-btn{
-    text-align: center;
-    border-radius: 4px;
-    font-size: 0.75rem;
-    height: 30px;
-    width: 100%;
-    border: none;
-    outline: none;
-    background-color: #282627;
-    color: white;
-    margin: 5px 0px;
-  }
+.created-done-page {
+  height: auto;
+  width: 340px;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: #141414;
+  color: white;
+  box-sizing: border-box;
+}
+
+#created-done {
+  color: #1ce683;
+}
+
+.text {
+  font-size: 0.8rem;
+  color: #b3b3b3;
+  float: left;
+}
+
+.div {
+  position: relative;
+  bottom: 50px;
+  box-sizing: border-box;
+  padding-left: 40px; 
+}
+
+#check-img,
+#card-img,
+#shield-img {
+  height: 20px;
+  width: 20px;
+  border: 2px solid #282627;
+  padding: 6px;
+  border-radius: 50%;
+  background-color: #282627;
+  vertical-align: middle;
+}
+
+#get-started-btn {
+  text-align: center;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  height: 30px;
+  width: 100%;
+  border: none;
+  outline: none;
+  background-color: #1ce683;
+  color: black;
+  font-weight: 900;
+  margin: 5px 0px;
+}
+
+#skip-btn {
+  text-align: center;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  height: 30px;
+  width: 100%;
+  border: none;
+  outline: none;
+  background-color: #282627;
+  color: white;
+  margin: 5px 0px;
+}

@@ -1,18 +1,18 @@
-import './App.css';
-import Security from './security/security';
-import Register from './register/register';
-import Created from './created-done/created';
-import Login from './login/login';
+import "./App.css";
+import Security from "./security/security";
+import Register from "./register/register";
+import Created from "./created-done/created";
+import Login from "./login/login";
 
 function App() {
   return (
-    <div>      
+    <div>
       <Register />
-      <br/>
+      <br />
       <Security />
-      <br/>
+      <br />
       <Created />
-      <br/>
+      <br />
       <Login />
     </div>
   );
